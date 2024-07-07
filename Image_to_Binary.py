@@ -12,7 +12,7 @@ z = 0
 c = 0
 
 # Open the file in append mode
-with open("binary.txt", "a") as f:
+with open("Binary.txt", "a") as f:
     print("opened file")
     for i in range(h):
         for j in range(w):
